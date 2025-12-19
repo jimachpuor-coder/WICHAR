@@ -1,0 +1,2 @@
+# WICHAR
+Akobo start now
